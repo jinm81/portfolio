@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "./header";
+import Header from "./Header";
 import Home from "./home";
 import Work from "./Work";
 import Contact from "./Contact";

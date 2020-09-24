@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Header";
 import Contact from "./Contact";
-import data from "./yourata";
+import data from "./yourdata";
 
 const About = () => {
   return (
